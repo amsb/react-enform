@@ -1,0 +1,19 @@
+{
+  "name": "react-enform",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsb/react-enform.git"
+  },
+  "author": "Alexander M. Sauer-Budge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amsb/react-enform/issues"
+  },
+  "homepage": "https://github.com/amsb/react-enform#readme"
+}
